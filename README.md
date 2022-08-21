@@ -1,10 +1,10 @@
-#### HOST BEHAVIOR ANALYSIS [SQL Project]
-##### The host behavior analysis for the property rental company is an analysis between a host who is a super host and a normal host and what makes them different.The analysis is of two cities host of Country Canada i.e., Toronto And Vancouver.
+### HOST BEHAVIOR ANALYSIS [SQL Project]
+#### The host behavior analysis for the property rental company is an analysis between a host who is a super host and a normal host and what makes them different.The analysis is of two cities host of Country Canada i.e., Toronto And Vancouver.
 
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Point Of Analysis :
 </h2>
-<p><img align="center" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif"/></p>
+<p><img align="center" src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif"/></p>
 
 1. Analysis of Different metrics to draw the distinction between Super Host and Other Hosts such as Acceptance rate, response rate, instant booking, profile picture, identity verified, review scores etc.
 
