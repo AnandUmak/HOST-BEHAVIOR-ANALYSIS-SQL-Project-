@@ -4,7 +4,7 @@
 <h2>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Point Of Analysis :
 </h2>
-<p><img align="center" src="https://analyticsindiamag.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif"/></p>
+<p><img align="right" height=400 width=400 src="https://caxsol.com/assets/img/data-analysis.gif"/></p>
 
 1. Analysis of Different metrics to draw the distinction between Super Host and Other Hosts such as Acceptance rate, response rate, instant booking, profile picture, identity verified, review scores etc.
 
